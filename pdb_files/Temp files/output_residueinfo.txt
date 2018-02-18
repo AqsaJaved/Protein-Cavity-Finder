@@ -1,0 +1,50 @@
+Enter PDB file:1ADS_asah.pdb
+The pdb file is 1ADS_asah.pdb.
+[[ 0.40018859 -0.61289252  0.68133094]
+ [-0.88983269 -0.08204638  0.44884984]
+ [ 0.21919598  0.78589512  0.57820583]]
+Grid initialized: True
+{'residue': 3, 'residue_name': 'ARG', 'coords': [7.064, -7.301, -15.823], 'name': ' NH1', 'key': 0, 'symbol': 'N', 'id': 20}
+{'residue': 7, 'residue_name': 'ASN', 'coords': [16.313, -3.662, -6.324], 'name': ' CA ', 'key': 0, 'symbol': 'C', 'id': 47}
+{'residue': 7, 'residue_name': 'ASN', 'coords': [16.641, -5.129, -6.422], 'name': ' C  ', 'key': 0, 'symbol': 'C', 'id': 48}
+{'residue': 11, 'residue_name': 'LYS', 'coords': [12.28, -3.482, -17.494], 'name': ' NZ ', 'key': 0, 'symbol': 'N', 'id': 79}
+{'residue': 12, 'residue_name': 'MET', 'coords': [7.875, -3.954, -11.121], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 80}
+{'residue': 15, 'residue_name': 'LEU', 'coords': [-3.901, 1.337, -13.501], 'name': ' CD2', 'key': 0, 'symbol': 'C', 'id': 110}
+{'residue': 16, 'residue_name': 'GLY', 'coords': [-1.785, -0.564, -9.402], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 111}
+{'residue': 16, 'residue_name': 'GLY', 'coords': [-3.7, -1.532, -8.281], 'name': ' C  ', 'key': 0, 'symbol': 'C', 'id': 113}
+{'residue': 17, 'residue_name': 'LEU', 'coords': [-4.418, -2.601, -7.959], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 115}
+{'residue': 17, 'residue_name': 'LEU', 'coords': [-8.708, -4.926, -7.728], 'name': ' CD2', 'key': 0, 'symbol': 'C', 'id': 122}
+{'residue': 29, 'residue_name': 'GLU', 'coords': [-18.029, -10.763, -9.352], 'name': ' CG ', 'key': 0, 'symbol': 'C', 'id': 209}
+{'residue': 31, 'residue_name': 'VAL', 'coords': [-10.323, -8.614, -8.957], 'name': ' CA ', 'key': 0, 'symbol': 'C', 'id': 219}
+{'residue': 41, 'residue_name': 'HIS', 'coords': [-1.963, -5.718, -8.639], 'name': ' C  ', 'key': 0, 'symbol': 'C', 'id': 298}
+{'residue': 41, 'residue_name': 'HIS', 'coords': [-2.851, -4.891, -8.878], 'name': ' O  ', 'key': 0, 'symbol': 'O', 'id': 299}
+{'residue': 41, 'residue_name': 'HIS', 'coords': [0.137, -4.581, -9.587], 'name': ' CB ', 'key': 0, 'symbol': 'C', 'id': 300}
+{'residue': 41, 'residue_name': 'HIS', 'coords': [1.209, -2.735, -8.198], 'name': ' ND1', 'key': 0, 'symbol': 'N', 'id': 302}
+{'residue': 48, 'residue_name': 'TYR', 'coords': [-7.23, -7.278, 6.122], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 350}
+ 
+{'residue': 22, 'residue_name': 'SER', 'coords': [-13.489, -6.642, 0.767], 'name': ' O  ', 'key': 0, 'symbol': 'O', 'id': 160}
+{'residue': 22, 'residue_name': 'SER', 'coords': [-12.489, -4.86, -1.439], 'name': ' CB ', 'key': 0, 'symbol': 'C', 'id': 161}
+{'residue': 22, 'residue_name': 'SER', 'coords': [-12.005, -3.625, -1.96], 'name': ' OG ', 'key': 0, 'symbol': 'O', 'id': 162}
+{'residue': 23, 'residue_name': 'PRO', 'coords': [-15.472, -5.805, 0.293], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 163}
+{'residue': 26, 'residue_name': 'GLN', 'coords': [-17.704, -8.211, -3.918], 'name': ' CA ', 'key': 0, 'symbol': 'C', 'id': 182}
+{'residue': 26, 'residue_name': 'GLN', 'coords': [-16.086, -7.97, -5.638], 'name': ' O  ', 'key': 0, 'symbol': 'O', 'id': 184}
+{'residue': 26, 'residue_name': 'GLN', 'coords': [-18.052, -6.73, -3.705], 'name': ' CB ', 'key': 0, 'symbol': 'C', 'id': 185}
+{'residue': 27, 'residue_name': 'VAL', 'coords': [-15.286, -8.587, -3.651], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 190}
+{'residue': 27, 'residue_name': 'VAL', 'coords': [-13.923, -8.475, -4.104], 'name': ' CA ', 'key': 0, 'symbol': 'C', 'id': 191}
+{'residue': 27, 'residue_name': 'VAL', 'coords': [-13.571, -9.575, -5.106], 'name': ' C  ', 'key': 0, 'symbol': 'C', 'id': 192}
+{'residue': 27, 'residue_name': 'VAL', 'coords': [-12.7, -9.312, -5.92], 'name': ' O  ', 'key': 0, 'symbol': 'O', 'id': 193}
+{'residue': 27, 'residue_name': 'VAL', 'coords': [-12.96, -8.504, -2.892], 'name': ' CB ', 'key': 0, 'symbol': 'C', 'id': 194}
+{'residue': 27, 'residue_name': 'VAL', 'coords': [-12.838, -9.902, -2.32], 'name': ' CG1', 'key': 0, 'symbol': 'C', 'id': 195}
+{'residue': 27, 'residue_name': 'VAL', 'coords': [-11.612, -7.961, -3.351], 'name': ' CG2', 'key': 0, 'symbol': 'C', 'id': 196}
+{'residue': 29, 'residue_name': 'GLU', 'coords': [-18.029, -10.763, -9.352], 'name': ' CG ', 'key': 0, 'symbol': 'C', 'id': 209}
+{'residue': 40, 'residue_name': 'ARG', 'coords': [-3.176, -9.11, -18.44], 'name': ' NH1', 'key': 0, 'symbol': 'N', 'id': 294}
+{'residue': 41, 'residue_name': 'HIS', 'coords': [-1.321, -5.968, -10.905], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 296}
+{'residue': 41, 'residue_name': 'HIS', 'coords': [-1.963, -5.718, -8.639], 'name': ' C  ', 'key': 0, 'symbol': 'C', 'id': 298}
+{'residue': 42, 'residue_name': 'ILE', 'coords': [-3.886, -7.806, -6.575], 'name': ' CB ', 'key': 0, 'symbol': 'C', 'id': 310}
+{'residue': 42, 'residue_name': 'ILE', 'coords': [-4.335, -8.288, -7.983], 'name': ' CG1', 'key': 0, 'symbol': 'C', 'id': 311}
+{'residue': 42, 'residue_name': 'ILE', 'coords': [-5.085, -7.579, -5.645], 'name': ' CG2', 'key': 0, 'symbol': 'C', 'id': 312}
+{'residue': 42, 'residue_name': 'ILE', 'coords': [-5.295, -7.383, -8.758], 'name': ' CD1', 'key': 0, 'symbol': 'C', 'id': 313}
+{'residue': 43, 'residue_name': 'ASP', 'coords': [-2.915, -5.298, -4.441], 'name': ' N  ', 'key': 0, 'symbol': 'N', 'id': 314}
+{'residue': 43, 'residue_name': 'ASP', 'coords': [-2.39, -5.018, -3.118], 'name': ' CA ', 'key': 0, 'symbol': 'C', 'id': 315}
+ 
+Overall time:    20.72 s
